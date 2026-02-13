@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ninja assignment</title>
+    <title>> dictionary entry </title>
 </head>
     <body>
         <h1>welcome to ninja assignment</h1>
