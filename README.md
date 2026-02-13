@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-
+<html>
 <head>
     <title>ninja assignment</title>
-
+</head>
     <body>
         <h1>welcome to ninja assignment</h1>
         <p> <span> the ninja guy</span></p>
@@ -11,6 +11,4 @@
             <li>A programmer who breaks down problems with zen-like focus</li>
         </ol>
     </body>
-</head>
-
 </html>
